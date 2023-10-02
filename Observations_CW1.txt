@@ -1,0 +1,10 @@
+Observation of the two speed cases for the airfoil in the Aeroelastic simulation - MATLAB CW Pt1 
+
+When v = 9.5 m/s:
+The range of variation for both pitch and heave was between -0.1 and 0.1 degrees and towards the end of the 45 seconds, both graphs converged to 0 degrees. 
+This is because at lower freestream velocities, the pitch and heave of the airfoil are less strong as the airfoil experiences less lift and drag forces.
+
+When v = 12.0 m/s:
+Similarly, the pitch against time plot also varied within the range of -0.1 to 0.1 degrees however it diverged towards the end of 45 seconds.
+This divergence is the same for the heave against time plot but the variation of the range of heave started off greater between -0.2 and 0.2 degrees.
+Towards the end of the 45 seconds, the heave was around -0.4 degrees and the pitch was starting to diverge to values slightly less than -0.1 degrees. 
